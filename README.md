@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   
-![Snake animation](https://github.com/galuhapr/galuhapr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GaluhApr/GaluhApr/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
