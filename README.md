@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/GaluhApr/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 <div id="header" align="center">
   
